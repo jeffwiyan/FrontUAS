@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.1.0",
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/node": "^24.10.1",
+    "better-sqlite3": "^12.4.1",
+    "bootstrap": "^5.3.8",
+    "next": "^16.0.2",
+    "next-auth": "^4.24.13",
+    "react": "^19.2.0",
+    "react-bootstrap": "^2.10.10",
+    "react-dom": "^19.2.0",
+    "sqlite3": "^5.1.7",
+    "typescript": "^5.9.3"
+  },
+  "name": "kel7utsfront-(4)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
